@@ -1,0 +1,50 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    margin: 4px;
+}
+
+.container {
+    max-width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.parts {
+    margin: auto;
+    margin-top: 10px;
+    border: 1px solid;
+    padding: 5px;
+    background-color: rgb(145, 180, 210);
+}
+
+.block {
+    display: block;
+    margin: auto;
+    margin-top: 3px;
+}
+
+.table {
+    border: 2px solid;
+    margin: auto;
+}
+
+.bor {
+    border: 1px solid;
+    padding: 1px;
+}
+
+.float {
+    margin: auto;
+    margin-top: 3px;
+}
+
+.form {
+    margin: auto;
+}
+
+.submit {
+    background-color: rgb(4, 213, 144);
+}
